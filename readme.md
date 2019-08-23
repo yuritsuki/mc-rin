@@ -10,9 +10,3 @@ MantiCore is a group of polished and time-tested templates for CRM-like projects
   <li>VueJS</li>
   <li>ESLint</li>
 </ul>
-
-## Installation
-
-npm install
-
-php -S localhost:8000 -t public
